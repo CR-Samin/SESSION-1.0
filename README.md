@@ -6,4 +6,8 @@ print(ME)
 
 print("With great power,comes great responsibility")
 
+<<<<<<< HEAD
 Team Project Update
+=======
+print("Siuuuuu")
+>>>>>>> TASM-14
